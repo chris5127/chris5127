@@ -6,3 +6,8 @@
 
 - AI
 - Backend
+
+## Tech Stack
+
+- Python
+- C++
